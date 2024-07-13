@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_projectxul.mk
+    $(LOCAL_DIR)/twrp_projectxul.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_projectxul-user \
-    omni_projectxul-userdebug \
-    omni_projectxul-eng
+    twrp_projectxul-user \
+    twrp_projectxul-userdebug \
+    twrp_projectxul-eng
