@@ -15,7 +15,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/samsung/projectxul/device.mk)
 
 PRODUCT_DEVICE := projectxul
-PRODUCT_NAME := omni_projectxul
+PRODUCT_NAME := twrp_projectxul
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SM-R925F
 PRODUCT_MANUFACTURER := samsung
